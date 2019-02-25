@@ -16,9 +16,9 @@ encoding: "utf-8"
 favicon: favicon.png 
 
 repository: xyp-0305/xyp-blog.github.io
-github_url: https://github.com/xyp-0305
-url: http://www.xyp-0305.com
-enforce_ssl: ityouknow.com
+github_url: https://github.com/xyp-blog
+url: http://www.xyp-blog.com
+enforce_ssl: xyp-blog.com
 
 ## Gem
 plugins:
